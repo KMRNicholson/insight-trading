@@ -8,7 +8,7 @@
             "type": "cppvsdbg",
             "request": "launch",
             "name": "(Windows) Debug",
-            "program": "${workspaceFolder}/the_book/projects/hello_cargo/target/debug/hello_cargo_test.exe",
+            "program": "${workspaceFolder}/target/debug/insight-trading.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}"
