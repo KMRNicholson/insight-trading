@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 yahoo-finance = "0.3.0"
+tokio = { version = "0.2", features = ["full"] }
+futures = "0.3.28"
+time-format = "1.1.2"
